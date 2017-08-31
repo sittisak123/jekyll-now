@@ -6,7 +6,7 @@
 name:sittisak123
 
 # Short bio or description (displayed in the header)
-description: studen
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-1/p160x160/13876150_674957995985003_7279221136850166293_n.jpg?oh=6c6e0038233c87b06cbaa73c204648f2&oe=5A18642B
@@ -17,8 +17,8 @@ avatar: https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-1/p160x160/13876150_67495
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:sittisak.kcs57@ubru.ac.th
-  facebook:sittisak
+  email:
+  facebook:
   flickr:
   github: barryclark/jekyll-now
   instagram:
