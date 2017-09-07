@@ -4,6 +4,6 @@ title: about sittisak123
 permalink: /resume/
 ---
 # Experience- web Developer client Technical
-เรียนไม่เก่งแต่ขยันลอก
+ประสบการณ์ทำงานงานด้วย เรียนด้วยเหนื่อยจัง
 # Education
-วิทยาการคอม
+เรียนวิทยาการคอมพิวเตอร์ ย้ากยาก
