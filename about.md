@@ -1,10 +1,10 @@
 ---
 layout: page
-title: sittisak123
+title: about sittisak123
 permalink: /about/
 ---
 
-Some information about you!
+Some information about sittisak123!
 
 ### More Information
 
